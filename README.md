@@ -155,23 +155,11 @@ The application is fully responsive and works on:
 - Efficient API calls with error handling
 - Smooth animations with CSS transitions
 
-## 🧪 Testing
 
-The application has been thoroughly tested:
-- ✅ Search functionality
-- ✅ Movie details display
-- ✅ Streaming links
-- ✅ Responsive design
-- ✅ Error handling
-- ✅ Loading states
 
-## 📄 License
 
-This project is created for educational purposes as part of an internship application.
 
-## 👨‍💻 Developer
 
-Created as part of the Anslation Front End Developer Internship application.
 
 ---
 
